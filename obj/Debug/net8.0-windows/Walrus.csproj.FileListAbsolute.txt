@@ -1,0 +1,16 @@
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\bin\Debug\net8.0-windows\Walrus.exe
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\bin\Debug\net8.0-windows\Walrus.deps.json
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\bin\Debug\net8.0-windows\Walrus.runtimeconfig.json
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\bin\Debug\net8.0-windows\Walrus.dll
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\bin\Debug\net8.0-windows\Walrus.pdb
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\obj\Debug\net8.0-windows\Walrus.Form1.resources
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\obj\Debug\net8.0-windows\Walrus.csproj.GenerateResource.cache
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\obj\Debug\net8.0-windows\Walrus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\obj\Debug\net8.0-windows\Walrus.AssemblyInfoInputs.cache
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\obj\Debug\net8.0-windows\Walrus.AssemblyInfo.cs
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\obj\Debug\net8.0-windows\Walrus.csproj.CoreCompileInputs.cache
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\obj\Debug\net8.0-windows\Walrus.dll
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\obj\Debug\net8.0-windows\refint\Walrus.dll
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\obj\Debug\net8.0-windows\Walrus.pdb
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\obj\Debug\net8.0-windows\Walrus.genruntimeconfig.cache
+C:\Users\MegaNotik\source\repos\Walrus\Walrus\obj\Debug\net8.0-windows\ref\Walrus.dll
